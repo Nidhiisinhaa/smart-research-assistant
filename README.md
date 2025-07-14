@@ -7,6 +7,13 @@ Just upload a PDF — and let the assistant do the thinking.
 
 ---
 
+> **Demo Video** : https://www.loom.com/share/155248d30dd64e2a872d28f6d408067d?sid=19bb72e7-31e1-4965-becd-fc484bb2cc1f
+  (copy the above link in browser)
+
+> **Screenshot** :  [Smart Assistant UI](screenshots/demo.png)
+
+---
+
 ## ✨ Features
 
 - 📄 **PDF Upload & Parsing**
@@ -67,11 +74,5 @@ pip install -r requirements.txt
 3. Run the App
 streamlit run app.py
 
-App will open at http://localhost:8501
 
-## 🖼️ Screenshot
-
-> Here’s a quick look at the Smart Assistant in action:
-
-![Smart Assistant UI](screenshots/demo.png)
 
