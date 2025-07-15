@@ -69,7 +69,6 @@ git clone https://github.com/Nidhiisinhaa/smart-research-assistant.git
 cd smart-research-assistant
 
 2. Install Dependencies
-pip install -r requirements.txt
 
 3. Run the App
 streamlit run app.py
